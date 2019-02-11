@@ -1,8 +1,11 @@
+
+[image1]: ./images/trained_agent.gif "trained agent" 
+
 # Navigation
 
 Project 1 in Udacity deep reinforcement learning nanodegree.
 
-In this project we trained an agent to navigate in a closed space and collect bananas. 
+In this project we trained an agent to navigate in a closed space and collect yellow bananas only. 
 
 ![alt text][image1]
 
